@@ -87,7 +87,7 @@ export default async function Video({ params }: PageProps) {
         '@type': 'VideoObject',
         name: `${file.title}`,
         thumbnailUrl: file.splash_img,
-        description: `${file.title} di ${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma`,
+        description: `Bokep ${file.title} di ${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Terbaru`,
         url: `https://bigohot.pages.dev/v/${file.filecode}`,
         embedUrl: `https://doodstream.com/e/${file.filecode}`,
         uploadDate: new Date(
